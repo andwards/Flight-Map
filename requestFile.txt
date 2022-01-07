@@ -1,0 +1,8 @@
+Q	X
+P	X
+P	T
+P	Z
+P	X
+P	Q
+T	P
+A	S
